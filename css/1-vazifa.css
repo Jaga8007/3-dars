@@ -1,4 +1,13 @@
-*{
-    margin: 0;
-    padding: 0%;
+
+    #brella{
+        top:-75px    
+    }
+@media (max-width: 767px) {
+    #brella{
+        top:-150px    
+    }
+}
+.jaga{
+    margin: 0%;
+    
 }
